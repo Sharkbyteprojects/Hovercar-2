@@ -1,5 +1,5 @@
 # Hovercar-2
-Vaersion 2 of Hovercar with evil Monkeys
+Version 2 of Hovercar with evil Monkeys
 
 [Play it](https://sharkbyteprojects-webservice.github.io/Hovercar-2#)
 
